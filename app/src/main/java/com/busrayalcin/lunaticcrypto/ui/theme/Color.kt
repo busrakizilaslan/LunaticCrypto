@@ -1,0 +1,13 @@
+package com.busrayalcin.lunaticcrypto.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple200 = Color(0xFFBB86FC)
+val Purple500 = Color(0xFF6200EE)
+val Purple700 = Color(0xFF3700B3)
+val Teal200 = Color(0xFF03DAC5)
+
+val Red243 = Color(0xFFF38181)
+val Yellow38 = Color(0xFFFCE38A)
+val LightGreen = Color(0xFFEAFFD0)
+val Teal95 = Color(0xFF95E1D3)
